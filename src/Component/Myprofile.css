@@ -1,0 +1,13 @@
+div{
+    background-color: teal;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    padding-left: 15px;
+    margin-top: 120px;
+    border-radius: 10px;
+}
+p{
+    font-size: 18px;
+    padding-top: 28px;
+}
